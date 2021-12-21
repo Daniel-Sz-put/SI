@@ -10,4 +10,4 @@ clipspy (pip install clipspy) oraz tkinter (pip install tk)
 # Komenda uruchamiająca: 
 python main.py lub python3 main.py
 # Instrukcja
-Przed uruchomieniem należy zainstalować biblioteki. Najbezpieczniej jest uruchomić program na systemie Windows w środowisku programistycznym przetwarzającym język Python np. PyCharm.
+Przed uruchomieniem należy zainstalować biblioteki. Najbezpieczniej jest uruchomić program (plik main.py) na systemie Windows w środowisku programistycznym przetwarzającym język Python np. PyCharm.
